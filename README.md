@@ -17,4 +17,4 @@
 
 ## [🗽 USD/ABB (NYSE:ABB) 💹](https://ayidouble.github.io/Swiss-Leader-Index-SLI-Chart/USDABB)
 
-## [🇨🇭 CHF/SNB (SIX:SNB) 💹](https://ayidouble.github.io/Swiss-Leader-Index-SLI-Chart/CHFNestlé)
+## [🇨🇭 CHF/SNB (SIX:SNB) 💹](https://ayidouble.github.io/Swiss-Leader-Index-SLI-Chart/CHFSNB)
