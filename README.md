@@ -18,3 +18,5 @@
 ## [🗽 USD/ABB (NYSE:ABB) 💹](https://ayidouble.github.io/Swiss-Leader-Index-SLI-Chart/USDABB)
 
 ## [🇨🇭 CHF/Schweizerische Nationalbank (SIX:SNB) 💹](https://ayidouble.github.io/Swiss-Leader-Index-SLI-Chart/CHFSNB)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
